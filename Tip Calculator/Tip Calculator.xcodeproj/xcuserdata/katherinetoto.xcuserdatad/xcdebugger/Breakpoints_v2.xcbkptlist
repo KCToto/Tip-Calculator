@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0DDFFF5-81EC-443F-BA13-EC75DE3F5AA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76D09ADA-554F-4B45-BB0E-2DD2948ACD2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tip Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "76D09ADA-554F-4B45-BB0E-2DD2948ACD2C - 371e0203aaf64e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.BLE_Service_UUID.getter : __C.CBUUID"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katherinetoto/Documents/Github/Tip%20Calculator/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "76D09ADA-554F-4B45-BB0E-2DD2948ACD2C - 90bd44cbb1e3c1cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tip_Calculator.ViewController"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katherinetoto/Documents/Github/Tip%20Calculator/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "76D09ADA-554F-4B45-BB0E-2DD2948ACD2C - 6d1666abbe414509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tip_Calculator.ViewController&gt;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katherinetoto/Documents/Github/Tip%20Calculator/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F5CA4CF-5B8B-4A84-BF69-61095684343A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
